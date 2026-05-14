@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "108457420820",
+    "firebase_url": "https://grameenlight-13d51-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "grameenlight-13d51",
+    "storage_bucket": "grameenlight-13d51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108457420820:android:b376d629eb33e45000df01",
+        "android_client_info": {
+          "package_name": "com.example.grameenlight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeBRhdwtawKJS9z7Qo12hCbsr1oKQOWyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
